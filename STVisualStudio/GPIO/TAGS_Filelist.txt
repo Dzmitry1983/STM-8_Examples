@@ -1,0 +1,25 @@
+..\libs\src\stm8s_gpio.c
+main.c
+stm8_interrupt_vector.c
+stm8s_it.c
+..\libs\inc\stm8s.h
+..\libs\inc\stm8s_adc1.h
+..\libs\inc\stm8s_awu.h
+..\libs\inc\stm8s_beep.h
+..\libs\inc\stm8s_clk.h
+..\libs\inc\stm8s_exti.h
+..\libs\inc\stm8s_flash.h
+..\libs\inc\stm8s_gpio.h
+..\libs\inc\stm8s_i2c.h
+..\libs\inc\stm8s_itc.h
+..\libs\inc\stm8s_iwdg.h
+..\libs\inc\stm8s_rst.h
+..\libs\inc\stm8s_spi.h
+..\libs\inc\stm8s_tim1.h
+..\libs\inc\stm8s_tim2.h
+..\libs\inc\stm8s_tim4.h
+..\libs\inc\stm8s_uart1.h
+..\libs\inc\stm8s_wwdg.h
+stm8s_conf.h
+stm8s_it.h
+c:\program files (x86)\cosmic\fse_compilers\cxstm8\hstm8\mods0.h

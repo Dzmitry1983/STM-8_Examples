@@ -1,0 +1,17 @@
+;	STMicroelectronics dependencies file
+
+[Version]
+Keyword=ST7Project
+Number=1.3
+
+[Root.Source Files.Source Files\Libs_src...\libs\src\stm8s_gpio.c.Config.0]
+ExternDep= ..\libs\src\stm8s_gpio.c  "C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\HSTM8\mods0.h"  ..\libs\inc\stm8s_gpio.h ..\libs\inc\stm8s.h stm8s_conf.h  ..\libs\inc\stm8s_adc1.h ..\libs\inc\stm8s_awu.h ..\libs\inc\stm8s_beep.h  ..\libs\inc\stm8s_clk.h ..\libs\inc\stm8s_exti.h ..\libs\inc\stm8s_flash.h  ..\libs\inc\stm8s_i2c.h ..\libs\inc\stm8s_itc.h ..\libs\inc\stm8s_iwdg.h  ..\libs\inc\stm8s_rst.h ..\libs\inc\stm8s_spi.h ..\libs\inc\stm8s_tim1.h  ..\libs\inc\stm8s_tim2.h ..\libs\inc\stm8s_tim4.h ..\libs\inc\stm8s_uart1.h  ..\libs\inc\stm8s_wwdg.h
+
+[Root.Source Files.main.c.Config.0]
+ExternDep= main.c  "C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\HSTM8\mods0.h"  ..\libs\inc\stm8s.h stm8s_conf.h ..\libs\inc\stm8s_adc1.h  ..\libs\inc\stm8s_awu.h ..\libs\inc\stm8s_beep.h ..\libs\inc\stm8s_clk.h  ..\libs\inc\stm8s_exti.h ..\libs\inc\stm8s_flash.h ..\libs\inc\stm8s_gpio.h  ..\libs\inc\stm8s_i2c.h ..\libs\inc\stm8s_itc.h ..\libs\inc\stm8s_iwdg.h  ..\libs\inc\stm8s_rst.h ..\libs\inc\stm8s_spi.h ..\libs\inc\stm8s_tim1.h  ..\libs\inc\stm8s_tim2.h ..\libs\inc\stm8s_tim4.h ..\libs\inc\stm8s_uart1.h  ..\libs\inc\stm8s_wwdg.h
+
+[Root.Source Files.stm8_interrupt_vector.c.Config.0]
+ExternDep= stm8_interrupt_vector.c  "C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\HSTM8\mods0.h" stm8s_it.h  ..\libs\inc\stm8s.h stm8s_conf.h ..\libs\inc\stm8s_adc1.h  ..\libs\inc\stm8s_awu.h ..\libs\inc\stm8s_beep.h ..\libs\inc\stm8s_clk.h  ..\libs\inc\stm8s_exti.h ..\libs\inc\stm8s_flash.h ..\libs\inc\stm8s_gpio.h  ..\libs\inc\stm8s_i2c.h ..\libs\inc\stm8s_itc.h ..\libs\inc\stm8s_iwdg.h  ..\libs\inc\stm8s_rst.h ..\libs\inc\stm8s_spi.h ..\libs\inc\stm8s_tim1.h  ..\libs\inc\stm8s_tim2.h ..\libs\inc\stm8s_tim4.h ..\libs\inc\stm8s_uart1.h  ..\libs\inc\stm8s_wwdg.h
+
+[Root.Source Files.stm8s_it.c.Config.0]
+ExternDep= stm8s_it.c  "C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8\HSTM8\mods0.h" stm8s_it.h  ..\libs\inc\stm8s.h stm8s_conf.h ..\libs\inc\stm8s_adc1.h  ..\libs\inc\stm8s_awu.h ..\libs\inc\stm8s_beep.h ..\libs\inc\stm8s_clk.h  ..\libs\inc\stm8s_exti.h ..\libs\inc\stm8s_flash.h ..\libs\inc\stm8s_gpio.h  ..\libs\inc\stm8s_i2c.h ..\libs\inc\stm8s_itc.h ..\libs\inc\stm8s_iwdg.h  ..\libs\inc\stm8s_rst.h ..\libs\inc\stm8s_spi.h ..\libs\inc\stm8s_tim1.h  ..\libs\inc\stm8s_tim2.h ..\libs\inc\stm8s_tim4.h ..\libs\inc\stm8s_uart1.h  ..\libs\inc\stm8s_wwdg.h
